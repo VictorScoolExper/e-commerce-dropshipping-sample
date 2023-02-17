@@ -18,4 +18,4 @@ Have not been defined yet
 Yet to provide instructions.
 
 ## License
-GNU-v2
+Not yet determined
